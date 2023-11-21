@@ -108,11 +108,13 @@
 
 
 \begin{document}
-\title{Quick notes on using scikit-learn and Pandas\\ \footnotesize{Link to these notes and their source code: \url{https://github.com/clvnkhr/Quick-notes-sk-learn}}}
-\author{Calvin Khor}
-
-\date{Last compiled: \today}
-\maketitle
+\begin{center}
+\includegraphics[scale=0.25]{banner.jpg}\\ 
+{\Large Calvin Khor}\\  
+Last compiled: \today\\ 
+\footnotesize{Link to these notes and their source code: \\ \url{https://github.com/clvnkhr/Quick-notes-sk-learn}}
+\end{center}
+\tableofcontents
 
 \section{Introduction}
 While I was trying to learn these tools for data analysis, I found the available discussion online to be dated; for example, \myhref{https://www.youtube.com/watch?v=BFaadIqWlAg&list=PLzERW_Obpmv_t55kNFRet-E0h1nKeswWF&index=26}{this talk} with corresponding \myhref{https://github.com/jem1031/pandas-pipelines-custom-transformers}{Github repo} were helpful but suggest making custom estimators purely to return Pandas DataFrames. These notes aim to get you using the newer features of scikit-learn quickly, to the point where you are comfortable creating your own estimators.

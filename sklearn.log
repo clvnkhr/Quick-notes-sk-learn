@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.4)  21 NOV 2023 21:02
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.4)  21 NOV 2023 23:14
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1069,30 +1069,38 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 110.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/Hasklig(0)/b/n on input line 110.
+File: banner.jpg Graphic file (type bmp)
+<banner.jpg>
 LaTeX Font Info:    Font shape `TU/Hasklig(0)/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 116.
+(Font)              scaled to size 8.09995pt on input line 115.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Hasklig' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 116.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 115.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 116.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 115.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+bbold on input line 116.
+LaTeX Font Info:    Trying to load font information for U+bbold on input line 115.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/bbold/Ubbold.fd) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
-)
+) (./sklearn.toc)
+\tf@toc=\write7
+\openout7 = `sklearn.toc'.
+
 LaTeX Font Info:    Font shape `TU/Hasklig(0)/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 118.
+(Font)              scaled to size 9.85492pt on input line 120.
+ [1
+
+]
 \openout4 = `sklearn.pyg'.
 
  (./_minted-sklearn/staroffice.pygstyle) (./_minted-sklearn/41812075847C8D31958E0CA97393B376FCEAA900A29DF57959E0424C004FC4CC.pygtex)
@@ -1113,9 +1121,7 @@ LaTeX Font Info:    Font shape `TU/Hasklig(0)/m/n' will be
  (./_minted-sklearn/92AA308767F9430D919339DB0416FB9DFCEAA900A29DF57959E0424C004FC4CC.pygtex)
 \openout5 = `sklearn.pyg'.
 
- (./_minted-sklearn/208C76B438DCCF89BE43436A5B0DCF3AFCEAA900A29DF57959E0424C004FC4CC.pygtex) [1
-
-]
+ (./_minted-sklearn/208C76B438DCCF89BE43436A5B0DCF3AFCEAA900A29DF57959E0424C004FC4CC.pygtex)
 \openout5 = `sklearn.pyg'.
 
  (./_minted-sklearn/208C76B438DCCF89BE43436A5B0DCF3AFCEAA900A29DF57959E0424C004FC4CC.pygtex)
@@ -1149,7 +1155,7 @@ LaTeX Font Info:    Font shape `TU/Hasklig(0)/m/n' will be
  (./_minted-sklearn/8BC771B7D26635D1BE94C16DEC173273FCEAA900A29DF57959E0424C004FC4CC.pygtex)
 \openout4 = `sklearn.pyg'.
 
- (./_minted-sklearn/8C665113020AF6FA35AD3B5C3A87555CFCEAA900A29DF57959E0424C004FC4CC.pygtex)
+ (./_minted-sklearn/8C665113020AF6FA35AD3B5C3A87555CFCEAA900A29DF57959E0424C004FC4CC.pygtex [2])
 \openout5 = `sklearn.pyg'.
 
  (./_minted-sklearn/CE12ECF5BA68A8C5E13AF09830D49ABDFCEAA900A29DF57959E0424C004FC4CC.pygtex)
@@ -1182,13 +1188,13 @@ LaTeX Font Info:    Font shape `TU/Hasklig(0)/m/n' will be
  (./_minted-sklearn/BA46A286DFD57C5C57E8452941F7E5CAFCEAA900A29DF57959E0424C004FC4CC.pygtex)
 \openout5 = `sklearn.pyg'.
 
- (./_minted-sklearn/EC96DCD1054A0549BC61BB7057007C9AFCEAA900A29DF57959E0424C004FC4CC.pygtex) [2]
+ (./_minted-sklearn/EC96DCD1054A0549BC61BB7057007C9AFCEAA900A29DF57959E0424C004FC4CC.pygtex)
 \openout4 = `sklearn.pyg'.
 
  (./_minted-sklearn/4970BA968B5B2D0B0CC945AC7987FBADFCEAA900A29DF57959E0424C004FC4CC.pygtex [3])
 \openout4 = `sklearn.pyg'.
 
- (./_minted-sklearn/B935EE14334745B49EE12D674B04ABF9FCEAA900A29DF57959E0424C004FC4CC.pygtex)
+ (./_minted-sklearn/B935EE14334745B49EE12D674B04ABF9FCEAA900A29DF57959E0424C004FC4CC.pygtex [4])
 \openout5 = `sklearn.pyg'.
 
  (./_minted-sklearn/754AE674154A90284AE2EB551C1BCE8FFCEAA900A29DF57959E0424C004FC4CC.pygtex)
@@ -1207,7 +1213,7 @@ LaTeX Font Info:    Font shape `TU/Hasklig(0)/m/n' will be
 (./_minted-sklearn/15D68BDEC0EE82CB54C03E9CD93739D1FCEAA900A29DF57959E0424C004FC4CC.pygtex)
 \openout4 = `sklearn.pyg'.
 
- (./_minted-sklearn/6E0136FA79014D5D48B99DAEB8042C8FFCEAA900A29DF57959E0424C004FC4CC.pygtex [4])
+ (./_minted-sklearn/6E0136FA79014D5D48B99DAEB8042C8FFCEAA900A29DF57959E0424C004FC4CC.pygtex)
 \openout5 = `sklearn.pyg'.
 
  (./_minted-sklearn/69800195DF7AC510AB6B1CE1B827F707FCEAA900A29DF57959E0424C004FC4CC.pygtex)
@@ -1219,7 +1225,7 @@ LaTeX Font Info:    Font shape `TU/Hasklig(0)/m/n' will be
  (./_minted-sklearn/491A8EC9C2866A4B5E58A2C801CBC70BFCEAA900A29DF57959E0424C004FC4CC.pygtex)
 \openout5 = `sklearn.pyg'.
 
- (./_minted-sklearn/1810A9A8EB9A700192B9A7FC035B2211FCEAA900A29DF57959E0424C004FC4CC.pygtex)
+ (./_minted-sklearn/1810A9A8EB9A700192B9A7FC035B2211FCEAA900A29DF57959E0424C004FC4CC.pygtex) [5]
 \openout4 = `sklearn.pyg'.
 
  (./_minted-sklearn/94CF46222307E5C9ECB8671D9A0EBD7AFCEAA900A29DF57959E0424C004FC4CC.pygtex)
@@ -1235,11 +1241,11 @@ LaTeX Font Info:    Font shape `TU/Hasklig(0)/m/n' will be
 \openout4 = `sklearn.pyg'.
 
  (./_minted-sklearn/1B1B77C4A668398CF613967EA195578FFCEAA900A29DF57959E0424C004FC4CC.pygtex
-Overfull \hbox (15.92624pt too wide) in paragraph at lines 283--1
+Overfull \hbox (15.92624pt too wide) in paragraph at lines 285--1
 \TU/Hasklig(0)/m/n/10.95 scikit-learn \TU/lmr/m/n/10.95 has many ways to search for an optimal parameter. The simplest is []\TU/Hasklig(0)/m/n/10.95 GridSearchCV[]\TU/lmr/m/n/10.95 ,
  []
 
-[5])
+)
 \openout4 = `sklearn.pyg'.
 
  (./_minted-sklearn/4B3F6D60EB47F28724886AA4FC1C102BFCEAA900A29DF57959E0424C004FC4CC.pygtex [6])
@@ -1248,7 +1254,7 @@ Overfull \hbox (15.92624pt too wide) in paragraph at lines 283--1
  (./_minted-sklearn/7BE47BC90F46D79454CF38F3D65A40E5FCEAA900A29DF57959E0424C004FC4CC.pygtex)
 \openout4 = `sklearn.pyg'.
 
- (./_minted-sklearn/558A57E1A9F36E9CE1694DE3F0A27AC4FCEAA900A29DF57959E0424C004FC4CC.pygtex)
+ (./_minted-sklearn/558A57E1A9F36E9CE1694DE3F0A27AC4FCEAA900A29DF57959E0424C004FC4CC.pygtex [7])
 \openout5 = `sklearn.pyg'.
 
  (./_minted-sklearn/942AB242410254407C1F72125E1F849AFCEAA900A29DF57959E0424C004FC4CC.pygtex)
@@ -1270,7 +1276,7 @@ Overfull \hbox (15.92624pt too wide) in paragraph at lines 283--1
 \openout5 = `sklearn.pyg'.
 
  (./_minted-sklearn/E569CCE4C53760D94B3D7D8143D84D55FCEAA900A29DF57959E0424C004FC4CC.pygtex)
-Overfull \hbox (28.1478pt too wide) in paragraph at lines 372--379
+Overfull \hbox (28.1478pt too wide) in paragraph at lines 374--381
 \TU/lmr/m/n/10.95 Essentially, we always inherit from []\TU/Hasklig(0)/m/n/10.95 BaseEstimator[] \TU/lmr/m/n/10.95 ([][]\TU/Hasklig(0)/m/n/10.95 which[][] \TU/lmr/m/n/10.95 defines []\TU/Hasklig(0)/m/n/10.95 .[][]get_params[] \TU/lmr/m/n/10.95 and []\TU/Hasklig(0)/m/n/10.95 .[][]set_params[]\TU/lmr/m/n/10.95 ).
  []
 
@@ -1288,7 +1294,7 @@ Overfull \hbox (28.1478pt too wide) in paragraph at lines 372--379
  (./_minted-sklearn/C2F6467276A7E352418D476CE7263524FCEAA900A29DF57959E0424C004FC4CC.pygtex)
 \openout5 = `sklearn.pyg'.
 
- (./_minted-sklearn/18FB798905F246068B33462AA18C8C69FCEAA900A29DF57959E0424C004FC4CC.pygtex) [7]
+ (./_minted-sklearn/18FB798905F246068B33462AA18C8C69FCEAA900A29DF57959E0424C004FC4CC.pygtex)
 \openout5 = `sklearn.pyg'.
 
  (./_minted-sklearn/18FB798905F246068B33462AA18C8C69FCEAA900A29DF57959E0424C004FC4CC.pygtex)
@@ -1303,7 +1309,7 @@ Overfull \hbox (28.1478pt too wide) in paragraph at lines 372--379
  (./_minted-sklearn/8179308477B0F45DF917ADE7FDBB9D27FCEAA900A29DF57959E0424C004FC4CC.pygtex)
 \openout5 = `sklearn.pyg'.
 
- (./_minted-sklearn/7069EDE66FEB5EAD4688120EEDFFADDCFCEAA900A29DF57959E0424C004FC4CC.pygtex)
+ (./_minted-sklearn/7069EDE66FEB5EAD4688120EEDFFADDCFCEAA900A29DF57959E0424C004FC4CC.pygtex) [8]
 \openout5 = `sklearn.pyg'.
 
  (./_minted-sklearn/CA3408295DD1F2506C0DB35F5CBE266EFCEAA900A29DF57959E0424C004FC4CC.pygtex)
@@ -1321,31 +1327,31 @@ Overfull \hbox (28.1478pt too wide) in paragraph at lines 372--379
  (./_minted-sklearn/61D802A7E73B5737466E1B855E10FD0DFCEAA900A29DF57959E0424C004FC4CC.pygtex)
 \openout4 = `sklearn.pyg'.
 
- (./_minted-sklearn/645E918CEC681D386F5102DE6942C19CFCEAA900A29DF57959E0424C004FC4CC.pygtex [8])
+ (./_minted-sklearn/645E918CEC681D386F5102DE6942C19CFCEAA900A29DF57959E0424C004FC4CC.pygtex [9])
 \openout5 = `sklearn.pyg'.
 
  (./_minted-sklearn/2465F9E9C32D286A82A43B6935C31E5AFCEAA900A29DF57959E0424C004FC4CC.pygtex)
 \openout4 = `sklearn.pyg'.
 
- (./_minted-sklearn/B28AC4569B2CF2DE14EC0962E47FFC4EFCEAA900A29DF57959E0424C004FC4CC.pygtex [9])
+ (./_minted-sklearn/B28AC4569B2CF2DE14EC0962E47FFC4EFCEAA900A29DF57959E0424C004FC4CC.pygtex [10])
 \openout5 = `sklearn.pyg'.
 
  (./_minted-sklearn/D4ADACC00D739B33A5D14E6C7B6E22DBFCEAA900A29DF57959E0424C004FC4CC.pygtex)
 \openout4 = `sklearn.pyg'.
 
- (./_minted-sklearn/AA48669E950D1097334F53EF2B0C419AFCEAA900A29DF57959E0424C004FC4CC.pygtex [10]) [11] (./sklearn.aux)
+ (./_minted-sklearn/AA48669E950D1097334F53EF2B0C419AFCEAA900A29DF57959E0424C004FC4CC.pygtex [11]) [12] (./sklearn.aux)
 Package rerunfilecheck Info: File `sklearn.out' has not changed.
 (rerunfilecheck)             Checksum: 30D3997C6E4338C6F943C5BC4491B1E6;985.
 runsystem(rm sklearn.pyg)...executed.
 
  ) 
 Here is how much of TeX's memory you used:
- 30361 strings out of 476179
- 651343 string characters out of 5809545
- 1053568 words of memory out of 5000000
- 50325 multiletter control sequences out of 15000+600000
- 479309 words of font info for 93 fonts, out of 8000000 for 9000
+ 30357 strings out of 476179
+ 651169 string characters out of 5809545
+ 1050446 words of memory out of 5000000
+ 50320 multiletter control sequences out of 15000+600000
+ 477572 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 115i,9n,118p,1030b,762s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,9n,118p,1030b,758s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on sklearn.xdv (11 pages, 294904 bytes).
+Output written on sklearn.xdv (12 pages, 300992 bytes).

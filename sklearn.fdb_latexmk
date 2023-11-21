@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1700600526 "sklearn.xdv" "sklearn.pdf" "sklearn" 1700600526
-  "sklearn.xdv" 1700600526 294904 2c720b07a5e57c57223db1671afdf785 "xelatex"
+["xdvipdfmx"] 1700608469 "sklearn.xdv" "sklearn.pdf" "sklearn" 1700608469
+  "sklearn.xdv" 1700608469 300992 64242bee7b6278ce5220bf0da72b8834 "xelatex"
   (generated)
   "sklearn.pdf"
-["xelatex"] 1700600524 "sklearn.tex" "sklearn.xdv" "sklearn" 1700600526
+["xelatex"] 1700608468 "sklearn.tex" "sklearn.xdv" "sklearn" 1700608469
   "/dev/null" 0 -1 0 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -17,19 +17,16 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1246382020 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1246382020 940 228d6584342e91276bf566bcf9716b83 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/bbold/bbold10.tfm" 1266369035 788 aa2bfd021367054a224c4cf5a9967398 ""
-  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/bbold/bbold12.tfm" 1266369035 768 568afddd613f4818fa95373954d5df42 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/bbold/bbold5.tfm" 1266369035 764 6e384685b780f01b6a1744eb2db32b69 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/bbold/bbold6.tfm" 1266369035 764 bc340104b2499eb440977e2d302aad8b ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/bbold/bbold8.tfm" 1266369035 768 b3927d32cc38bf306f676b7e9ddf7414 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/bbold/bbold9.tfm" 1266369035 768 728e575cd98bc8b78b5579f7cba845be ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
-  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1136768653 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm" 1136768653 1524 d89e2d087a9828407a196f428428ef4a ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
-  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1136768653 1300 b62933e007d01cfd073f79b963c01526 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1136768653 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
@@ -268,11 +265,14 @@
   "_minted-sklearn/EC96DCD1054A0549BC61BB7057007C9AFCEAA900A29DF57959E0424C004FC4CC.pygtex" 1700600131 165 e3f9ee0fb49c0800ad7a030b2e803c94 ""
   "_minted-sklearn/F5D00FE2B03BCF46C6F8A563B2B34D34FCEAA900A29DF57959E0424C004FC4CC.pygtex" 1700600130 74 7763ac27f2b8e946004ecfdbb174494f ""
   "_minted-sklearn/staroffice.pygstyle" 1700600130 6845 33a3c816d313cb7fba4e5f7a4b7098bd ""
-  "sklearn.aux" 1700600526 7286 abbff7cf6c52fe5ba8391df578d2dbb9 "xelatex"
-  "sklearn.out" 1700600526 985 30d3997c6e4338c6f943c5bc4491b1e6 "xelatex"
-  "sklearn.tex" 1700600524 26843 df005ba73e3a4d963d86282dac1d832c ""
+  "banner.jpg" 1700608162 128764 4855e44b2b2134d2e955b088603a7efe ""
+  "sklearn.aux" 1700608469 7286 b4f627cdba437aa0a81544114e77751b "xelatex"
+  "sklearn.out" 1700608469 985 30d3997c6e4338c6f943c5bc4491b1e6 "xelatex"
+  "sklearn.tex" 1700608466 26868 bd47da597696671cb7553989d15005ad ""
+  "sklearn.toc" 1700608469 594 078a8d2deb3c9a1f444ff9ecd020d605 "xelatex"
   (generated)
   "sklearn.aux"
   "sklearn.log"
   "sklearn.out"
+  "sklearn.toc"
   "sklearn.xdv"
