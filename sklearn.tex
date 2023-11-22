@@ -160,11 +160,10 @@ from sklearn.preprocessing import StandardScaler
 X_scaled = StandardScaler().fit(X).transform(X) 
 X_scaled = StandardScaler().fit_transform(X) # same as the above
 \end{minted}
-We quickly remark that the above method chaining implies that the methods have\footnote{actually \mintinline{python}!fit! takes an optional \mintinline{python}!y! input for supervised learning. Estimators normally also inherit from \mintinline{python}!BaseEstimator!, which we say again later.} the signatures
+We quickly remark that the above method chaining implies that the methods have\footnote{actually \mintinline{python}!fit! takes an optional \mintinline{python}!y! input for supervised learning.} the signatures
 \begin{minted}{python}
-class MyEstimator:
-# ...
-def fit(self, X: pd.DataFrame) -> MyEstimator: 
+from typing import Self
+def fit(self, X: pd.DataFrame) -> Self: 
     # ...
     return self
 def transform(self, X: pd.DataFrame) -> pd.DataFrame: 
