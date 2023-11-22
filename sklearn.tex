@@ -154,11 +154,22 @@ learning is done with the \mintinline{python}!MyEstimator.fit! method, and
 prediction is done with the \mintinline{python}!MyEstimator.predict! method. 
 
 An example of a transformer is \mintinline{python}!StandardScaler! which\footnote{another useful scaler is the \mintinline{python}!RobustScaler! which uses quantile information and is therefore more robust to outliers.} scales to mean 0 and variance 1. 
-One needs to fit to learn the parameters and then transform, or the convenience method \mintinline{python}!fit_transform!:
+One needs to \mintinline{python}!fit! to learn the parameters and then \mintinline{python}!transform!, or equivalently, use the convenience method \mintinline{python}!fit_transform!:
 \begin{minted}{python}
 from sklearn.preprocessing import StandardScaler
 X_scaled = StandardScaler().fit(X).transform(X) 
 X_scaled = StandardScaler().fit_transform(X) # same as the above
+\end{minted}
+We quickly remark that the above method chaining implies that the methods have\footnote{actually \mintinline{python}!fit! takes an optional \mintinline{python}!y! input for supervised learning. Estimators normally also inherit from \mintinline{python}!BaseEstimator!, which we say again later.} the signatures
+\begin{minted}{python}
+class MyEstimator:
+# ...
+def fit(self, X: pd.DataFrame) -> MyEstimator: 
+    # ...
+    return self
+def transform(self, X: pd.DataFrame) -> pd.DataFrame: 
+    # ...
+    # return a pd.DataFrame
 \end{minted}
 A very convenient transformer is the \mintinline{python}!FunctionTransformer! which applies an arbitrary Python function to the Pandas \mintinline{python}!DataFrame!. The function should take the dataframe as input, and return a new dataframe, which is the output of the \mintinline{python}!transform! method (\mintinline{python}!fit! is empty for \mintinline{python}!FunctionTransformer!s.) A simple example is if you wanted to drop a column called \mintinline{python}!"Rubbish"!, you could use\footnote{Keep in mind though lambdas will prevent the transformer from pickling.}
 \begin{minted}{python}

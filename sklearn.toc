@@ -4,5 +4,5 @@
 \contentsline {subsection}{\numberline {2.1}Pipeline}{2}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Finally, the Pipeline}{5}{subsection.2.2}%
 \contentsline {section}{\numberline {3}Gridsearching}{6}{section.3}%
-\contentsline {section}{\numberline {4}The need for custom estimators}{7}{section.4}%
+\contentsline {section}{\numberline {4}The need for custom estimators}{8}{section.4}%
 \contentsline {section}{\numberline {5}Further reading}{12}{section.5}%
